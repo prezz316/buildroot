@@ -1,0 +1,1000 @@
+ 1016  ls cd zc706adrv9371/
+ 1017  ls
+ 1018  cd zc706adrv9371/
+ 1019  clear
+ 1020  ls
+ 1021  gedit kernel_config &
+ 1022  ls
+ 1023  gedit catalog.xml &
+ 1024  cd ../../../../../
+ 1025  cd ../
+ 1026  ls
+ 1027  ./build.py -u -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml
+ 1028  ./build.py -u -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalognew.xml 
+ 1029  ./build.py -u -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml
+ 1030  ./build.py -u -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml
+ 1031  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-20.zip ~/sharedFiles/
+ 1032  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml
+ 1033  cp /output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-20.zip
+ 1034  cp /output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-20.zip ~/sharedFiles/
+ 1035  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-20.zip ~/sharedFiles/
+ 1036  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml 
+ 1037  ls
+ 1038  rm -rf output
+ 1039  ./build.py -p zynq -b zc706
+ 1040  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1041  ./build.py -u -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml 
+ 1042  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1043  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml 
+ 1044  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1045  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/
+ 1046  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1047  ./build.py -p zynq -b zc706 -u
+ 1048  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1049  ./build.py -p zynq -b zc706
+ 1050  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1051  ./build.py -p zynq -b zc706 -u
+ 1052  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1053  ./build.py -p zynq -b zc706 -u
+ 1054  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1055  ./build.py -p zynq -b zc706 -u
+ 1056  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1057  ./build.py -p zynq -b zc706
+ 1058  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1059  ./build.py -p zynq -b zc706
+ 1060  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-21.zip ~/sharedFiles/
+ 1061  git status
+ 1062  ls
+ 1063  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml -u 
+ 1064  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1065  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml
+ 1066  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1067  cd board
+ 1068  ls
+ 1069  cd mathworks
+ 1070  ls
+ 1071  cd apps
+ 1072  clar
+ 1073  clear
+ 1074  ls
+ 1075  cd zynqsdr
+ 1076  ls
+ 1077  cd dts
+ 1078  ls
+ 1079  mv zynq-mw-adrv9371.dtsi ~/sharedFiles/
+ 1080  ls
+ 1081  cd ..
+ 1082  ls
+ 1083  cd boards
+ 1084  ls
+ 1085  cd ../../../
+ 1086  cd ../../
+ 1087  ls
+ 1088  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml -u
+ 1089  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1090  git status
+ 1091  cd board/mathworks/apps/zynqsdr/boards
+ 1092  ls
+ 1093  mv -rf zc706adrv9371/ ~/sharedFiles/
+ 1094  mv zc706adrv9371/ ~/sharedFiles/
+ 1095  ls
+ 1096  cd /Work/LinuxTraining/
+ 1097  ls
+ 1098  cd buildroot
+ 1099  ls
+ 1100  cd configs
+ 1101  ls
+ 1102  gedit zynq_zc706_defconfig 
+ 1103  cd ..
+ 1104  ls
+ 1105  cd output
+ 1106  cd ..
+ 1107  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml -u
+ 1108  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1109  ls
+ 1110  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1111  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1112  cd ..
+ 1113  rm -rf buildroot
+ 1114  git clone https://github.com/mathworks/buildroot.git
+ 1115  ls
+ 1116  cd buildroot
+ 1117  ls
+ 1118  cd board
+ 1119  cd ..
+ 1120  git tag
+ 1121  git checkout mathworks_zynq_iiosdr_R19.2.1
+ 1122  ls
+ 1123  git tag
+ 1124  git status
+ 1125  git diff
+ 1126  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml 
+ 1127  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1128  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1129  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/
+ 1130  make menuconfig
+ 1131  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1132  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDS.zip
+ 1133  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1134  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDS.zip
+ 1135  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1136  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSnew.zip
+ 1137  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1138  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail.zip
+ 1139  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1140  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail2.zip
+ 1141  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1142  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail3.zip
+ 1143  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1144  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail4.zip
+ 1145  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1146  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail5.zip
+ 1147  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1148  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail.zip
+ 1149  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1150  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-21.zip ~/sharedFiles/DDSfail10.zip
+ 1151  ./build.py -p zynq -b zc706
+ 1152  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-22.zip ~/sharedFiles/DDSfail10.zip
+ 1153  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1154  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-22.zip ~/sharedFiles/DDSfail15.zip
+ 1155  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSfail15.zip
+ 1156  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSfail1.zip
+ 1157  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1158  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSnewdt.zip
+ 1159  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1160  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSnewer.zip
+ 1161  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1162  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSnewer.zip
+ 1163  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSnewer1.zip
+ 1164  ls
+ 1165  clear
+ 1166  ls
+ 1167  clear
+ 1168  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1169  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSnewer2.zip
+ 1170  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1171  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/DDSnewer3.zip
+ 1172  ls
+ 1173  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1174  clear
+ 1175  ./build.py -p zynq -b zc706
+ 1176  cp output/zc706_linux_linaro/images/zc706_sdcard_zynq7000ec_2019-12-22.zip ~/sharedFiles/
+ 1177  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1178  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-22.zip ~/sharedFiles/
+ 1179  cd sharedFiles/
+ 1180  ls
+ 1181  gedit pl.dtsi 
+ 1182  ls
+ 1183  rm *.zip
+ 1184  ls
+ 1185  gedit system-top.dts 
+ 1186  ls
+ 1187  cd /Work/LinuxTraining/
+ 1188  ls
+ 1189  cd ~
+ 1190  cd sharedFiles/
+ 1191  ls
+ 1192  unzip zc706_sdcard_zynqsdr_2019-12-19.zip 
+ 1193  ls
+ 1194  rm zc706_sdcard_zynqsdr_2019-12-19.zip 
+ 1195  rm d*
+ 1196  ls
+ 1197  rm boot.bin
+ 1198  rm BUILDINFO 
+ 1199  rm f*
+ 1200  ls
+ 1201  rm u*
+ 1202  ls
+ 1203  rm init.sh 
+ 1204  ls
+ 1205  rm GPL.TXT
+ 1206  ls
+ 1207  cat hotname
+ 1208  cat hostname
+ 1209  cdls
+ 1210  ls
+ 1211  rm zc*
+ 1212  ls
+ 1213  rm L*
+ 1214  ls
+ 1215  rm trial*
+ 1216  ls
+ 1217  rm zc*
+ 1218  ls
+ 1219  rm zc*
+ 1220  ls
+ 1221  rm zc706_sdcard_zynqsdr_2019-12-19.zip 
+ 1222  rm zc*
+ 1223  ls
+ 1224  rm zc*
+ 1225  ls
+ 1226  rm z*.zip
+ 1227  ls
+ 1228  rm z*.zip
+ 1229  ls
+ 1230  rm z*.zip
+ 1231  ls
+ 1232  rm z*
+ 1233  ls
+ 1234  rm z*
+ 1235  ls
+ 1236  rm z*
+ 1237  ls
+ 1238  rm nor*
+ 1239  ls
+ 1240  rm *.zip
+ 1241  ls
+ 1242  mv zc706_sdcard_zynq7000ec_2019-12-21.zip normalnewconfig.zip
+ 1243  ls
+ 1244  rm *.zip
+ 1245  mv zc706_sdcard_zynq7000ec_2019-12-21.zip normalnewconfig.zip
+ 1246  rm *.zip
+ 1247  ls
+ 1248  man diff
+ 1249  diff normalConfig UpdateZC706Config 
+ 1250  mv zc706_sdcard_zynqsdr_2019-12-21.zip updatedBuild.zip
+ 1251  ls
+ 1252  rm *.zip
+ 1253  ls
+ 1254  cp zc706adrv9371/ /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/boards/
+ 1255  cp -rf zc706adrv9371/ /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/boards/
+ 1256  cp zynq-mw-adrv9371.dtsi /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/dts/
+ 1257  rm *.zip
+ 1258  ls
+ 1259  mv SDRImage SDRImage.zip
+ 1260  ls
+ 1261  rm *.zip
+ 1262  clear
+ 1263  ls
+ 1264  rm UpdateZC706Config 
+ 1265  rm normalConfig 
+ 1266  ls
+ 1267  rm FreshBuild 
+ 1268  ls
+ 1269  cat hostname
+ 1270  rm hostname 
+ 1271  cat interfaces 
+ 1272  rm interface
+ 1273  rm interfaces 
+ 1274  ls
+ 1275  rm -rf newImage/
+ 1276  ls
+ 1277  cp ps* zc706adrv9371/boot/handoff/
+ 1278  mv system_top.bit zc706adrv9371/boot
+ 1279  cd zc706adrv9371/
+ 1280  ls
+ 1281  cd boot
+ 1282  ls
+ 1283  mv system_top.bit adrv9371.bit 
+ 1284  ls
+ 1285  cd handoff
+ 1286  ls
+ 1287  cd ..
+ 1288  ls
+ 1289  cp -f zc706adrv9371/ /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/boards/
+ 1290  cp -rf zc706adrv9371/ /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/boards/
+ 1291  cp zynq-mw-adrv9371.dtsi /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/dts/
+ 1292  ls
+ 1293  ls -al *.zip
+ 1294  ls
+ 1295  rm *.zip
+ 1296  ls
+ 1297  rm *.zip
+ 1298  ls
+ 1299  rm *.zip
+ 1300  ls
+ 1301  clear
+ 1302  ls
+ 1303  rm *.zip
+ 1304  cd /Work/LinuxTraining/buildroot/output
+ 1305  clear
+ 1306  ls
+ 1307  cd zc706_linux_linaro/
+ 1308  ls
+ 1309  cd build
+ 1310  ls
+ 1311  cd linux-mathworks_zynq_iiosdr_R19.2.1/
+ 1312  ls
+ 1313  clear
+ 1314  ls
+ 1315  make menuconfig
+ 1316  ls .config
+ 1317  cat .config | grep DDS
+ 1318  cd /Work/LinuxTraining/buildroot/
+ 1319  ls
+ 1320  cd board
+ 1321  cd mathworks/apps/zynqsdr/boards/
+ 1322  ls
+ 1323  cd zc706adrv9371/
+ 1324  ls
+ 1325  gedit catalog.xml &
+ 1326  gedit kernel_config &
+ 1327  cd ../../../../
+ 1328  ls ../../
+ 1329  cd ../../
+ 1330  clear
+ 1331  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1332  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-23.zip ~/sharedFiles/NewHope.zip
+ 1333  cd board/mathworks/apps/zynqsdr/boards/
+ 1334  clear
+ 1335  ls
+ 1336  cd zc706adrv9371/
+ 1337  ls
+ 1338  cd dts
+ 1339  ls
+ 1340  gedit adrv9371.dts 
+ 1341  cd ..
+ 1342  ls
+ 1343  cd ..
+ 1344  clear
+ 1345  ls
+ 1346  cd dts
+ 1347  ls
+ 1348  gedit zynq-mw-adrv9371.dtsi 
+ 1349  cd ..
+ 1350  cd boards/zc706adrv9371/
+ 1351  cd dts
+ 1352  clear
+ 1353  ls
+ 1354  gedit adrv9371.dts 
+ 1355  cd ..
+ 1356  clear
+ 1357  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1358  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-23.zip ~/sharedFiles/NewHope2.zip
+ 1359  ls
+ 1360  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1361  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-23.zip ~/sharedFiles/NewHope3.zip
+ 1362  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706adrv9371/catalog.xml -u
+ 1363  cp output/zc706_linux_linaro/images/zc706_sdcard_zynqsdr_2019-12-23.zip ~/sharedFiles/NewHope4.zip
+ 1364  cd /Work/LinuxTraining/buildroot/output/zc706_linux_linaro/build/
+ 1365  ls -a;
+ 1366  cd linux-mathworks_zynq_iiosdr_R19.2.1/
+ 1367  clear
+ 1368  ls -al
+ 1369  rm .stamp_built 
+ 1370  cd /Work/LinuxTraining/buildroot/output/zc706_linux_linaro/
+ 1371  ls
+ 1372  cd build/linux-mathworks_zynq_iiosdr_R19.2.1/
+ 1373  ls
+ 1374  gedit .config
+ 1375  make menuconfig config
+ 1376  make arch=ARM menuconfig
+ 1377  clear
+ 1378  make ARCH=arm menuconfig
+ 1379  ls .confi g-al
+ 1380  ls .confi -al
+ 1381  ls .config -la
+ 1382  ls -al
+ 1383  rm .stamp_built 
+ 1384  ls
+ 1385  ls-al
+ 1386  ls -al
+ 1387  gedit .config &
+ 1388  cp .config ~/sharedFiles/
+ 1389  cp .config ~/sharedFiles/Ousmanconfig
+ 1390  ifconfig
+ 1391  ls
+ 1392  clear
+ 1393  make ARCH=arm menuconfig
+ 1394  ls -al
+ 1395  rm .stamp_built 
+ 1396  make ARCH=arm menuconfig
+ 1397  clear
+ 1398  ls
+ 1399  cd arch
+ 1400  ls
+ 1401  cd arm
+ 1402  ls
+ 1403  cd boot
+ 1404  ls
+ 1405  cd dts
+ 1406  ls
+ 1407  clear
+ 1408  ls adi-adrv9371.dtsi 
+ 1409  gedit ls adi-adrv9371.dtsi 
+ 1410  gedit adi-adrv9371.dtsi 
+ 1411  cd ../../../../
+ 1412  ls
+ 1413  ls -al
+ 1414  rm .stamp_built 
+ 1415  ls
+ 1416  cd arch
+ 1417  ls
+ 1418  cd arm
+ 1419  ls
+ 1420  cd boot/dts
+ 1421  ls
+ 1422  clear
+ 1423  gedit adi-adrv9371.dtsi 
+ 1424  cd /Work/LinuxTraining/buildroot/output/zc706_linux_linaro/build/linux-mathworks_zynq_iiosdr_R19.2.1/
+ 1425  ls
+ 1426  cd arch
+ 1427  ls
+ 1428  cd arm
+ 1429  clear
+ 1430  ls
+ 1431  cd boot
+ 1432  clear
+ 1433  ls
+ 1434  cd dts
+ 1435  ls
+ 1436  gedit adi-adrv9371.dtsi &
+ 1437  cp adi-adrv9371.dtsi ~/sharedFiles/
+ 1438  ifconfig
+ 1439  ls
+ 1440  cd /Work/LinuxTraining/buildroot/output/
+ 1441  ls
+ 1442  cd zc706_linux_linaro/
+ 1443  ls
+ 1444  cd build
+ 1445  ls
+ 1446  cd linux-mathworks_zynq_iiosdr_R19.2.1/
+ 1447  clear
+ 1448  ls
+ 1449  cd arch
+ 1450  ls
+ 1451  cd arm
+ 1452  ls
+ 1453  cd boot
+ 1454  ls
+ 1455  cd dts
+ 1456  ls
+ 1457  ls a*
+ 1458  cd /Work/LinuxTraining/
+ 1459  cd buildroot/
+ 1460  ls
+ 1461  cd board
+ 1462  ls
+ 1463  cd mathworks/
+ 1464  ls
+ 1465  cd zynq
+ 1466  ls
+ 1467  cd defconfig/
+ 1468  ls
+ 1469  gedit common.defconfig 
+ 1470  cd ..
+ 1471  ls
+ 1472  cd apps
+ 1473  ls
+ 1474  cd zynqsdr/
+ 1475  ls
+ 1476  cd boards
+ 1477  ls
+ 1478  cd /Work/LinuxTraining/buildroot/
+ 1479  cd ouptut
+ 1480  cd output
+ 1481  ls
+ 1482  cd zc706_linux_linaro/
+ 1483  ls
+ 1484  cd build/
+ 1485  cd linux-mathworks_zynq_iiosdr_R19.2.1/
+ 1486  clear
+ 1487  ls
+ 1488  make arch=ARCH menuconfig
+ 1489  make arch=ARM menuconfig
+ 1490  ls .stamp*
+ 1491  gedit .config
+ 1492  make ARCH=arm menuconfig
+ 1493  ls
+ 1494  cd /Work/LinuxTraining/buildroot/
+ 1495  ls
+ 1496  cd board
+ 1497  ls
+ 1498  cd mathworks/
+ 1499  ls
+ 1500  cd zynq
+ 1501  ls
+ 1502  cd defconfig
+ 1503  ls
+ 1504  gedit common.defconfig &
+ 1505  ls
+ 1506  cp common.defconfig original.defconfig
+ 1507  ls
+ 1508  gedit common.defconfig &
+ 1509  cd /Work/LinuxTraining/buildroot/
+ 1510  clear
+ 1511  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml -u
+ 1512  cd output
+ 1513  ls
+ 1514  cd zc706_linux_linaro/
+ 1515  ls
+ 1516  cd build
+ 1517  ls
+ 1518  cd linux-2018_R2/
+ 1519  clear
+ 1520  ls
+ 1521  cd include/
+ 1522  ls
+ 1523  cd dt-bindings/
+ 1524  ls
+ 1525  cd iio/frequency/
+ 1526  ls
+ 1527  cd /Work/LinuxTraining/buildroot/
+ 1528  ls
+ 1529  ./build.py -c board/mathworks/apps/zynqsdr/boards/zc706/catalog.xml -u
+ 1530  ifconfig
+ 1531  cd output
+ 1532  ls
+ 1533  cd zc706_linux_linaro/
+ 1534  ls
+ 1535  cd images
+ 1536  ls
+ 1537  cd sdcard
+ 1538  ls
+ 1539  cd ..
+ 1540  ls
+ 1541  cd sdcard
+ 1542  ls
+ 1543  cd ..
+ 1544  ls
+ 1545  cp ~/sharedFiles/zynq-zc706-adv7511-adrv9371.dtb .
+ 1546  ls
+ 1547  cp ~/sharedFiles/system_top.bit .
+ 1548  ls
+ 1549  mv rootfs.cpio.uboot uramdisk.image.gz
+ 1550  ls
+ 1551  mv system_top.bit system.bit
+ 1552  cd /Work/LinuxTraining/buildroot/
+ 1553  ls
+ 1554  history
+ 1555  cd board
+ 1556  ls
+ 1557  cd mathworks
+ 1558  ls
+ 1559  cd apps
+ 1560  ls
+ 1561  cd zynqsdr/
+ 1562  clear
+ 1563  ls
+ 1564  cd boards
+ 1565  ls
+ 1566  cd zc706
+ 1567  ls
+ 1568  git status
+ 1569  ls
+ 1570  gedit catalog.xml &
+ 1571  cd ..
+ 1572  ls
+ 1573  cd zc706
+ 1574  ls
+ 1575  cd dts
+ 1576  ls
+ 1577  gedit adrv9371.dts 
+ 1578  cd ..
+ 1579  gedit catalog.xml &
+ 1580  ls
+ 1581  cd dts
+ 1582  ls
+ 1583  gedit adrv9371.dts &
+ 1584  ls
+ 1585  cd ..
+ 1586  gedit catalog.xml &
+ 1587  cd dts
+ 1588  gedit adrv9371.dts 
+ 1589  cd /Work/LinuxTraining/buildroot/output/
+ 1590  ls
+ 1591  cd zc706_linux_linaro/
+ 1592  ls
+ 1593  cd build/linux-2018_R2/
+ 1594  ls
+ 1595  cd arch
+ 1596  ls
+ 1597  cd arm
+ 1598  ls
+ 1599  cd boot
+ 1600  ls
+ 1601  cd dts
+ 1602  ls
+ 1603  ls adi-*
+ 1604  ls zynq-zc706*
+ 1605  ls adi-*
+ 1606  cd /Work/LinuxTraining/buildroot
+ 1607  ls
+ 1608  cd board
+ 1609  cd ~
+ 1610  ls
+ 1611  cd sharedFiles/
+ 1612  ls
+ 1613  history
+ 1614  cd /Work/LinuxTraining/buildroot/
+ 1615  ls
+ 1616  cd output
+ 1617  ls
+ 1618  cd zc706_linux_linaro/
+ 1619  ls
+ 1620  cd images
+ 1621  ls
+ 1622  cd sdcard/
+ 1623  ls
+ 1624  cd ..
+ 1625  clear
+ 1626  history
+ 1627  ifconfig
+ 1628  cd ~/sharedFiles/
+ 1629  ls
+ 1630  git status
+ 1631  cd /Work/LinuxTraining/buildroot/
+ 1632  git status
+ 1633  ls
+ 1634  cd output
+ 1635  ls
+ 1636  cd zc706_linux_linaro/
+ 1637  ls
+ 1638  cd images
+ 1639  ls
+ 1640  ifconfig
+ 1641  ls
+ 1642  ls -la
+ 1643  ls ~/sharedFiles/ -la
+ 1644  cp boot.bin ~/sharedFiles/
+ 1645  cp licenses_zc706_2020-01-13.txt ~/sharedFiles/
+ 1646  cp rootfs.cpio ~/sharedFiles/
+ 1647  cp rootfs.cpio.gz ~/sharedFiles/
+ 1648  cp system.bit ~/sharedFiles/
+ 1649  cp u-boot.bin ~/sharedFiles/
+ 1650  cp u-boot.img  ~/sharedFiles/
+ 1651  cp uramdisk.image.gz ~/sharedFiles/
+ 1652  cp zynq-zc706-adv7511-adrv9371.dtb ~/sharedFiles/
+ 1653  ls
+ 1654  cp uImage ~/sharedFiles/
+ 1655  ls
+ 1656  history
+ 1657  cd /Work/LinuxTraining/buildroot/board/mathworks/apps/zynqsdr/
+ 1658  ls
+ 1659  cd dts
+ 1660  ls
+ 1661  cd ..
+ 1662  ls
+ 1663  cd boards
+ 1664  ls
+ 1665  cd zc706
+ 1666  ls
+ 1667  cd dts
+ 1668  ls
+ 1669  gedit adrv9371.dts 
+ 1670  cd /Work/LinuxTraining/
+ 1671  ls
+ 1672  cd buildroot
+ 1673  ls
+ 1674  cd output
+ 1675  ls
+ 1676  cd zc706_linux_linaro/
+ 1677  ls
+ 1678  cd images
+ 1679  ls
+ 1680  ls -al
+ 1681  cd sdcard
+ 1682  ls
+ 1683  cd ../../
+ 1684  ls
+ 1685  cd build
+ 1686  ls
+ 1687  git tag
+ 1688  git diff
+ 1689  cd ../../../
+ 1690  ls
+ 1691  cd board
+ 1692  ls
+ 1693  cd mathworks
+ 1694  ls
+ 1695  git diff
+ 1696  cd ../../
+ 1697  ls
+ 1698  ifconfig
+ 1699  ipconfig
+ 1700  ls
+ 1701  history
+ 1702  history > /home/mathworks/sharedFiles/StepstoRedproduce.txt
+ 1703  clear
+ 1704  git diff
+ 1705  git diff > ~/sharedFiles/gitChanges.txt
+ 1706  cd 
+ 1707  ccd /Work/LinuxTraining/buildroot/
+ 1708  ls
+ 1709  cd /Work/LinuxTraining/buildroot/
+ 1710  ls
+ 1711  cd output
+ 1712  ls
+ 1713  cd zc706_linux_linaro/
+ 1714  ls
+ 1715  cd build
+ 1716  ls
+ 1717  cd linux-2018_R2/
+ 1718  ls
+ 1719  ls .config
+ 1720  make arch=ARM menuconfig
+ 1721  ls
+ 1722  cd sharedFiles/
+ 1723  ls
+ 1724  gedit StepstoRedproduce.txt 
+ 1725  clear
+ 1726  ls
+ 1727  gedit gitChanges &
+ 1728  gedit gitChanges.txt &
+ 1729  cd ADIImage
+ 1730  ls
+ 1731  gedit devicetree_uncompiled.dts 
+ 1732  cd ..
+ 1733  ls
+ 1734  git diff
+ 1735  cd /
+ 1736  ls
+ 1737  cd Work/
+ 1738  cd LinuxTraining/
+ 1739  ls
+ 1740  cd buildroot
+ 1741  ls
+ 1742  git diff
+ 1743  git tag
+ 1744  cd /Work/LinuxTraining/
+ 1745  ls
+ 1746  cd buildroot
+ 1747  ls
+ 1748  git tag
+ 1749  git status
+ 1750  git tag
+ 1751  git status
+ 1752  cd /Work/LinuxTraining/
+ 1753  cd buildroot
+ 1754  ls
+ 1755  cd board/
+ 1756  ls
+ 1757  cd mathworks/
+ 1758  ls
+ 1759  cd apps/zynqsdr/boards/
+ 1760  ls
+ 1761  cd zc706adrv9371/
+ 1762  ls
+ 1763  gedit catalog.xml 
+ 1764  cd dts
+ 1765  ls
+ 1766  gedit adrv9371.dts 
+ 1767  cd ..
+ 1768  ls
+ 1769  cd ..
+ 1770  ls
+ 1771  cd ..
+ 1772  ls
+ 1773  cd boards
+ 1774  ls
+ 1775  cd zc706
+ 1776  ls
+ 1777  gedit catalog.xml 
+ 1778  ls
+ 1779  cd dts
+ 1780  ls
+ 1781  gedit adrv9371.dts 
+ 1782  cd ..
+ 1783  ls
+ 1784  gedit catalog.xml &
+ 1785  ls
+ 1786  cd boot
+ 1787  ls
+ 1788  cd ..
+ 1789  ls
+ 1790  cd dts
+ 1791  ls
+ 1792  gedit adrv9371.dts
+ 1793  cd ..
+ 1794  ls
+ 1795  gedit catalog.xml 
+ 1796  cd /Work/LinuxTraining/buildroot/output/
+ 1797  ls
+ 1798  cd zc706_linux_linaro/
+ 1799  ls
+ 1800  cd images
+ 1801  ls
+ 1802  cd sdcard
+ 1803  ls
+ 1804  cd /Work/LinuxTraining/
+ 1805  ls
+ 1806  cd buildroot
+ 1807  ls
+ 1808  cd arch
+ 1809  ls
+ 1810  cd ..
+ 1811  ls
+ 1812  cd board
+ 1813  ls
+ 1814  cd mathworks
+ 1815  ls
+ 1816  cd apps
+ 1817  ls
+ 1818  cd zynqsdr/
+ 1819  ls
+ 1820  cd dts
+ 1821  ls
+ 1822  cd ..
+ 1823  ls
+ 1824  cd boards
+ 1825  ls
+ 1826  cd zc706adrv9371/
+ 1827  ls
+ 1828  cd dts
+ 1829  ls
+ 1830  gedit adrv9371.dts 
+ 1831  cd ..
+ 1832  cd ../../../../
+ 1833  cd ../../output
+ 1834  ls
+ 1835  cd build/
+ 1836  ls
+ 1837  cd ..
+ 1838  cd zc706_linux_linaro/
+ 1839  ls
+ 1840  cd build
+ 1841  ls
+ 1842  cd linux-2018_R2/
+ 1843  ls
+ 1844  cd arch
+ 1845  ls
+ 1846  cd arm
+ 1847  ls
+ 1848  cd boot
+ 1849  ls
+ 1850  cd dts
+ 1851  ls
+ 1852  gedit zynq-zc706-adv7511-adrv9375.dts
+ 1853  cd /Work/LinuxTraining/
+ 1854  ls
+ 1855  cd buildroot
+ 1856  ls
+ 1857  cd board
+ 1858  ls
+ 1859  cd mathworks
+ 1860  ls
+ 1861  cd apps
+ 1862  ls
+ 1863  cd zynqsdr/
+ 1864  ls
+ 1865  cd boards
+ 1866  ls
+ 1867  cd zc706adrv9371/
+ 1868  ls
+ 1869  cd dts
+ 1870  ls
+ 1871  gedit adrv9371.dts
+ 1872  cd /Work/LinuxTraining/
+ 1873  ls
+ 1874  cd buildroot
+ 1875  ls
+ 1876  cd output
+ 1877  ls
+ 1878  cd zc706_linux_linaro/
+ 1879  ls
+ 1880  cd build
+ 1881  ls
+ 1882  cd linux
+ 1883  cd linux-2018_R2/
+ 1884  ls
+ 1885  cd arch
+ 1886  ls
+ 1887  arm
+ 1888  cd arm
+ 1889  ls
+ 1890  cd boot
+ 1891  ls
+ 1892  cd dts
+ 1893  ls
+ 1894  gedit zynq-zc706-adv7511-adrv9375.dts
+ 1895  history
+ 1896  cd /Work/LinuxTraining/
+ 1897  cd buildroot
+ 1898  ls
+ 1899  cd output
+ 1900  ls
+ 1901  cd zc706_linux_linaro/
+ 1902  ls
+ 1903  gedit build.log
+ 1904  LS
+ 1905  ls
+ 1906  cd images
+ 1907  ls
+ 1908  cd sdcard
+ 1909  ls
+ 1910  cd ..
+ 1911  ls
+ 1912  cd ../../../
+ 1913  ls
+ 1914  cd board
+ 1915  ls
+ 1916  cd mathworks
+ 1917  ls
+ 1918  cd apps
+ 1919  ls
+ 1920  cd zynqsdr/
+ 1921  ls
+ 1922  cd boards
+ 1923  ls
+ 1924  cd zc706adrv9371/
+ 1925  ls
+ 1926  cd dts
+ 1927  ls
+ 1928  gedit adrv9371
+ 1929  gedit adrv9371.dts 
+ 1930  cd /Work/LinuxTraining/
+ 1931  ls
+ 1932  cd buildroot
+ 1933  ls
+ 1934  cd board
+ 1935  ls
+ 1936  cd mathworks
+ 1937  ls
+ 1938  cd apps
+ 1939  ls
+ 1940  cd zynqsdr
+ 1941  ls
+ 1942  cd boards
+ 1943  ls
+ 1944  cd zc706adrv9371/
+ 1945  ls
+ 1946  cd boot
+ 1947  ls
+ 1948  cd handoff
+ 1949  ls
+ 1950  cd ..
+ 1951  ls
+ 1952  cd ..
+ 1953  ls
+ 1954  gedit catalog.xml 
+ 1955  ls
+ 1956  cd dts
+ 1957  ls
+ 1958  gedit adrv9371.dts 
+ 1959  cd ..
+ 1960  ls
+ 1961  cp -avr zc706adrv9371/ zc706adrv9375
+ 1962  ls
+ 1963  cd zc706adrv9375
+ 1964  ls
+ 1965  cd dts
+ 1966  ls
+ 1967  mv adrv9371.dts adrv9375.dts 
+ 1968  ls
+ 1969  gedit adrv9375.dts 
+ 1970  cd ..
+ 1971  ls
+ 1972  gedit catalog.xml 
+ 1973  clear
+ 1974  ls
+ 1975  cd ls
+ 1976  ls
+ 1977  cd dts
+ 1978  ls
+ 1979  gedit adrv9375.dts 
+ 1980  cd ..
+ 1981  ls
+ 1982  gedit catalog.xml 
+ 1983  cd ../dts
+ 1984  cd ../../dts
+ 1985  cd ..
+ 1986  ls
+ 1987  cd ..
+ 1988  ls
+ 1989  cd zynqsdr/
+ 1990  ls
+ 1991  cd boards
+ 1992  ls
+ 1993  zc706adrv9375
+ 1994  ls
+ 1995  cd zc706adrv9375
+ 1996  ls
+ 1997  gedit catalog.xml 
+ 1998  cd /Work/LinuxTraining/buildroot/
+ 1999  ls
+ 2000  git status
+ 2001  git tag -d mathworks_consulting_937x 
+ 2002  git log 
+ 2003  git commit -m 'added modified files'
+ 2004  git status
+ 2005  git commit -am 'added modified files'
+ 2006  git log
+ 2007  git tag -a mathworks_consulting_ad937x -m 'Added experimental support for AD937x'
+ 2008  git branch -vv
+ 2009  git remote -vv
+ 2010  git push origin mathworks_consulting_ad937x 
+ 2011  git remote add gitlab https://insidelabs-git.mathworks.com/EmbeddedLinux/buildroot.git
+ 2012  git push gitlab mathworks_consulting_ad937x 
+ 2013  git pull all
+ 2014  git pull --all
+ 2015  history > gitcommands.txt
